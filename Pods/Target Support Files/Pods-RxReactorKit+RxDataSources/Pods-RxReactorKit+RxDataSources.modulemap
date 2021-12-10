@@ -1,0 +1,6 @@
+framework module Pods_RxReactorKit_RxDataSources {
+  umbrella header "Pods-RxReactorKit+RxDataSources-umbrella.h"
+
+  export *
+  module * { export * }
+}
